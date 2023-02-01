@@ -1,3 +1,7 @@
+## Fork info
+
+Fork of Vial, which is a fork of QMK. This repo contains my personal changes/preferences for the keyboards I actually use, overwriting the original files.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
